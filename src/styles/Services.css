@@ -1,0 +1,23 @@
+/*Services, Ligeng Cai, 301286463, 9/28/2024*/
+.services {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .services ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .services li {
+    padding: 10px 0;
+    font-size: 1.2em;
+    color: #666;
+  }
+  
+  .services li::before {
+    content: "âœ”";
+    color: #6c63ff;
+    margin-right: 8px;
+  }
+  
